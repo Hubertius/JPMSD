@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdventureGame/AdventureGame.iml" filepath="$PROJECT_DIR$/AdventureGame/AdventureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking/Banking.iml" filepath="$PROJECT_DIR$/Banking/Banking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldFX/HelloWorldFX.iml" filepath="$PROJECT_DIR$/HelloWorldFX/HelloWorldFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JPMSD.iml" filepath="$PROJECT_DIR$/.idea/JPMSD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PackageChalangeContinuation/PackageChalangeContinuation.iml" filepath="$PROJECT_DIR$/PackageChalangeContinuation/PackageChalangeContinuation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PackageChallange/PackageChallange.iml" filepath="$PROJECT_DIR$/PackageChallange/PackageChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WallArea/WallArea.iml" filepath="$PROJECT_DIR$/WallArea/WallArea.iml" />
+    </modules>
+  </component>
+</project>
