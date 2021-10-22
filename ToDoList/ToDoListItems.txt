@@ -1,0 +1,5 @@
+Mail BirthDay Card	Card for 30th birthday of John	17-października-2021
+Doctor's Appointment	Jack doctor's appointment	08-kwietnia-2021
+Finish design proposal for client	Task to finish in work by Jack	19-września-2021
+Mail BirthDay Card	Card for 30th birthday of Dutch	03-listopada-2021
+Mail BirthDay Card	Card for 30th birthday of Uncle	21-grudnia-2021
