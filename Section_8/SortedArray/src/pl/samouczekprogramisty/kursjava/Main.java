@@ -18,6 +18,7 @@ public class Main {
             System.out.println("Write contents for arr[" + i + "]: ");
             newArray[i] = scanner.nextInt();
         }
+        scanner.close();
         return newArray;
     }
 
